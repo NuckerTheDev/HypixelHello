@@ -1,0 +1,21 @@
+#$$\   $$\                     $$\                     $$\       $$\   $$\           $$\ $$\
+#$$ |  $$ |                    \__|                    $$ |      $$ |  $$ |          $$ |$$ |
+#$$ |  $$ |$$\   $$\  $$$$$$\  $$\ $$\   $$\  $$$$$$\  $$ |      $$ |  $$ | $$$$$$\  $$ |$$ | $$$$$$\
+#$$$$$$$$ |$$ |  $$ |$$  __$$\ $$ |\$$\ $$  |$$  __$$\ $$ |      $$$$$$$$ |$$  __$$\ $$ |$$ |$$  __$$\
+#$$  __$$ |$$ |  $$ |$$ /  $$ |$$ | \$$$$  / $$$$$$$$ |$$ |      $$  __$$ |$$$$$$$$ |$$ |$$ |$$ /  $$ |
+#$$ |  $$ |$$ |  $$ |$$ |  $$ |$$ | $$  $$<  $$   ____|$$ |      $$ |  $$ |$$   ____|$$ |$$ |$$ |  $$ |
+#$$ |  $$ |\$$$$$$$ |$$$$$$$  |$$ |$$  /\$$\ \$$$$$$$\ $$ |      $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |
+#\__|  \__| \____$$ |$$  ____/ \__|\__/  \__| \_______|\__|      \__|  \__| \_______|\__|\__| \______/
+#          $$\   $$ |$$ |
+#          \$$$$$$  |$$ |
+#           \______/ \__|
+# Developed by Nucker
+# Github: https://github.com/Nuckerr/HypixelHello/
+# Website: https://nucker.me
+# Discord: https://nckr.link/discord
+
+# Available Placeholders: %player% = Player's displayname
+# These placeholders are avliable in send messages only (`message` & `permission-message`)
+message: "&aWhy hello there %player%"
+permission: "hypixelhello.command"
+permission-message: "&cYou do not have permission to run this command"

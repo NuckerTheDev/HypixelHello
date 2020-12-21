@@ -1,0 +1,17 @@
+name: HypixelHello
+version: ${project.version}
+main: me.nucker.hypixelhello.HypixelHello
+prefix: HypixelHello
+load: STARTUP
+authors: [ Nucker ]
+description: A recreation of the /hi command on hypixel
+website: nucker.me
+commands:
+  hi:
+    description: The /hi command in hypixel
+    usage: /<command>
+    aliases: [hello, hallo, goodday, hey]
+  hypixelhello:
+    description: Information command for the hypixel hello plugin
+    usage: /<command> reload
+    aliases: [hh, hypixelh, hhello]
